@@ -17,4 +17,4 @@ goals: "Becoming a full-time Software engineer",
 
 ![anime gif](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGU2ZXdmcHAwYmxqczJwN3U1bjA0ODV1MW5udWJuNmp2cDVkYjdmYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/AFgpHSm7GrF1take0g/giphy.gif)
 
-![anime gif](https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3aDFmY2tpemFrNmdma2lsbm9jbHllNjk3ZDZjdnYzMjllZGlmN3F0NiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/SncNuxuyLameCa3H5A/giphy.gif)
+![anime gif](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjh0NHR6YmhvdGRsdHZleHhkeXU3YW1ieG50MWE1ZmRmeDRmc2ltNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SncNuxuyLameCa3H5A/giphy.gif)
