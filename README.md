@@ -15,6 +15,6 @@ goals: "Becoming a full-time Software engineer",
 
 ![anime gif](https://tenor.com/view/naruto-shippuden-naruto-nine-tails-kurama-gif-18786256)
 
-![anime gif](https://tenor.com/bdJjx.gif)
+![anime gif]()
 
-![anime gif](https://tenor.com/F7FE.gif)
+![anime gif]()
