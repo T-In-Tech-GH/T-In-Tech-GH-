@@ -9,4 +9,4 @@ major: "Computer Science"
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;React+Dev;Software+Engineer;)
 
-![coding gif](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+![coding gif]<iframe src="https://giphy.com/embed/qMnhxcHyeBJDFlxnZa" width="361" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/peak-kurama-six-path-qMnhxcHyeBJDFlxnZa">via GIPHY</a></p>
