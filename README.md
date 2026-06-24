@@ -8,3 +8,5 @@ major: "Computer Science"
 },
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;React+Dev;Software+Engineer;)
+
+![coding gif](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
