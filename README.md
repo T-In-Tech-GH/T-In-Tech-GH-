@@ -9,7 +9,7 @@ location: "Wichita, KS",
 education: "Southern New Hampshire University", 
 major: "Computer Science",
 skills: ["JavaScript", "Python"],
-goals: "Become a full-time Software engineer", 
+goals: "Becoming a full-time Software engineer", 
 },
 ```
 
