@@ -7,4 +7,4 @@ education: "Southern New Hampshire University",
 major: "Computer Science"
 },
 
-![test](https:/readme-typing-svg.herorokuapp.com/?lines=Full+Stack+developer;React+Dev;Software+Engineer;)
+[Typing SVG](https://readme-typing-svg.herokuapp.com/...)
