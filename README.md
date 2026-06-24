@@ -7,6 +7,7 @@ location: "Wichita, KS",
 education: "Southern New Hampshire University", 
 major: "Computer Science"
 },
+```
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Software+Engineer;Front-end+Dev;)
 
